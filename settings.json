@@ -1,8 +1,0 @@
-{
-    "Database_connection_string": "mongodb+srv://trilamsr:onetwothree@cluster0-eknf0.mongodb.net/test?retryWrites=true&w=majority",
-    "Typeform_token":"3zLSstdMavdNmkYP6en48nHFCprvxKxfGaUGLiuuvTHm",
-    "Typeform_uid":"az9hDC",
-    "Ngrok": "http://ed6d99df.ngrok.io/",
-    "Ngrok_token":"1apDcGmBujx30AINqyiFXoSFn4h_2vmmAgReTXeLphmrw6jQ2",
-    "Slack_bot_token": "xoxb-631554600310-1075097208322-CZyyZmMW3s4ksBCiAxwCTnNj"
-}
